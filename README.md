@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  linkedln:reethu joseph
 
 <!---
 Ree-maker/Ree-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
